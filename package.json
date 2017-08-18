@@ -1,0 +1,19 @@
+{
+  "name": "planefilling",
+  "version": "1.0.0",
+  "description": "basecode for a simulator that fill a plane",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GameLabChile/TalentFest.git"
+  },
+  "author": "Gamelab Education",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GameLabChile/TalentFest/issues"
+  },
+  "homepage": "https://github.com/GameLabChile/TalentFest#readme"
+}

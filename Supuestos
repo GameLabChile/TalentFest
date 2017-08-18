@@ -1,0 +1,13 @@
+Supuestos
+
+• Cada persona lleva una maleta a colocar en la parte superior de los asientos y colocar una 
+maleta en dicho lugar toma 30 segundos.
+
+• Que un pasajero se levante del asiento para dejar pasar otro pasajero, toma 30 segundos
+si el pasajero esta sentado en el pasillo y 50 segundos si esta sentado al medio.
+
+• Los pasajeros abordan el avión con un tiempo entre ellos de 10 segundos.
+
+• Los pasajeros avanzan 1 posición cada 0.5 segundos
+
+• Los grupos entran juntos?? se sientan juntos??
